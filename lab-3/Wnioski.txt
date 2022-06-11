@@ -1,0 +1,5 @@
+Zadanie 2 
+Ukazało, jakie użyć  wartości, aby przesył informacji był optymalny i o precyzyjnym miejscu
+dzięki odpowiedniemu dobraniu parametrów Fn i Fm.
+Najlepsze wyniki dawało ustawienie z podpunktu A, a ustawienia z podpunktu C kompletnie nie spełniły oczekiwań
+

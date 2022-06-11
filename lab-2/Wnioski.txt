@@ -1,0 +1,20 @@
+Dla zbioru i od <1 , 17>  dla 2^i 
+Czas DFT: 0.009975433349609375
+Czas FFT: 0.001994609832763672
+
+Dla zbioru i od <1 , 128>  dla 2^i 
+Czas DFT: 0.027431726455688477
+Czas FFT: 0.006981372833251953
+
+Dla zbioru i  od <1 , 256>  dla 2^i
+Czas DFT: 0.10471987724304199
+Czas FFT: 0.014960527420043945
+
+Dla zbioru i od  <1 , 1024>  dla 2^i
+Czas DFT: 1.7144360542297363
+Czas FFT: 0.001995086669921875
+
+Z tych czterech testów wyraźnie widać równice prędkości miedzy domowa metodami. 
+Metoda DFT jest znacznie wolniejsza i potrzebny dla niej czas rośnie bardzo 
+szybko wraz z zwiększeniem zbioru, lecz metoda FFT znacznie lepiej działa w tych samych 
+warunkach i nie widać tak dużego wydłużenie czasu pracy przy zwiększeniu zbioru.

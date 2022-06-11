@@ -1,0 +1,9 @@
+Demodulacja ASK Jest najprostsza do implementacji i działa z najmniejszą ilością zniekształceń, i najłatwiej przeczytać na nim ciąg bitów 
+
+Demodulacja PSK nie różni się dużo od ASK i tak samo nie ma większych problemów ze zniekształceniami
+
+Demodulacja FSK działa w miarę prost sposób na podstawie różnicy sum. Daje ona nam nieco gorszę zniekształcenia 
+i małe błędy, które funkcja zamiany wykresu na bity łatwo poprawia
+
+Funkcja zamieniająca wykres na ciąg bitów dzieli wykres na ilość bitów i dla każdej 
+część sprawdza przeważający stan dla tego odcinka

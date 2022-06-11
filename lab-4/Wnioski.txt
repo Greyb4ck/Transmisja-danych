@@ -1,0 +1,14 @@
+ASK Czyli kluczowanie z przesunięciem amplitudy
+
+Jest według mnie najbardziej czytelne po wygenerowaniu wykresu 
+działa w miarę prosto, zmienia amplitudę zależnie od bitu czy jest  1 lub 0
+
+PSK Czyli kluczowanie z przesuwaniem fazy
+Przesuniecie nastepuje gdy bit jest równy 1 gdy mamy 0 nic się nie zmienia
+wygenerowany wykres jest w miarę czytelny 
+
+
+FSK czyli kluczowanie z przesuwem częstotliwości
+Zmiana częstotliwości zmienia zagęszczenie wykresu, w miejscach, gdzie mamy 1 jest rzadszy a gdzie
+ 0 jest gęstrzy
+wygenerowany wykres jest w miarę czytelny, ale tylko dla odpowiednich danych 
